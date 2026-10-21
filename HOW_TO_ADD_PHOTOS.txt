@@ -1,0 +1,28 @@
+===================================================================
+  HOW TO ADD ANSHU'S REAL PHOTOS TO THIS BIRTHDAY WEBSITE
+===================================================================
+
+Hi Satyam! You can add Anshu's Instagram DP & photos in TWO easy ways:
+
+METHOD 1: Instant In-Browser Photo Manager (Easiest!)
+------------------------------------------------------
+1. Open the website in your browser (e.g. http://localhost/bday%20wish/ or double-click index.html).
+2. Look at the bottom-right corner for the pink floating "📸 Photos" button.
+3. Click it to open the Photo Customizer.
+4. Upload her Profile DP and 6 of her best photos/highlights!
+5. The website will instantly save them in your browser so they show permanently!
+
+METHOD 2: Place Photos Directly into This 'images' Folder
+---------------------------------------------------------
+Save her photos into this folder with these exact file names:
+- dp.jpg           (Her profile picture / DP)
+- photo1.jpg       (Photo 1 - Class 10 / Memories)
+- photo2.jpg       (Photo 2 - Favorite Highlight / Smile)
+- photo3.jpg       (Photo 3 - Candid / Beautiful moment)
+- photo4.jpg       (Photo 4 - Elegant / Highlight)
+- photo5.jpg       (Photo 5 - Cute pose)
+- photo6.jpg       (Photo 6 - Radiant look)
+
+(Supported formats: .jpg, .jpeg, .png, .webp)
+
+The website will automatically detect and display them with romantic polaroid animations!
